@@ -22,3 +22,7 @@ Document_Language_Detection\out\production\Document_Language_Detection
 Please don't hesitate to contact me for any information.
 
 Ahmed AbuRa'ed
+
+Refferences :
+Schmitt, John C. "Trigram-based method of language identification." U.S. Patent No. 5,062,143. 29 Oct. 1991.
+
